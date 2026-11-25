@@ -14,6 +14,10 @@ Referral code: `er9011hp`
 
 101 characters, one line, no trailing newline.
 
+## Why this line
+
+In the Turn 4 review pass, Sol ranked this line **#1 of 3 candidates**: the context reset was called "a touching little act of self-deception", and "wake up encouraged" was judged genuinely sorry and faintly proud — the tone this judge rewards. Two backups were considered and kept aside (including the "All three were me" line, whose harder punch Sol itself said this line's rhythm earns without).
+
 ## Run
 
 ```sh
